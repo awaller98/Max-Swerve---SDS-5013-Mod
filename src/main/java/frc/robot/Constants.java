@@ -36,7 +36,7 @@ public final class Constants {
 
     public static final class DrivetrainConstants {
         public static final CanPort PIGEON_ID = new CanPort( 10,CANIVORE_NAME);
-        public static final GearRatio SWERVE_GEAR_RATIO = GearRatio.L2;
+        public static final GearRatio SWERVE_GEAR_RATIO = GearRatio.L1;
         /**
          * The maximum voltage that will be delivered to the drive motors.
          * <p>
